@@ -2,33 +2,32 @@ Hol, soy Javier de Mendoza, Argentina. Me he estado capacitando en distintas tec
 
 ### Lenguajes de programacion 🌐
 
-- Know/Using
+- Que estoy usando
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|
+<img src="https://user-images.githubusercontent.com/96395154/216854164-3c2b8353-b3a2-456c-b5e8-7dcddcfb252e.png" alt="python" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216855618-82b81379-5213-47c3-9b9b-553a79ca91cf.png" alt="html" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216855621-bb044edc-1051-480a-87d0-7397a107694b.png" alt="bash" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216856255-797c3bbe-acf6-4e00-8075-2a8a6c94f93c.png" alt="postgres" height='32'>
 
-- Learning
+- Aprendiendo
+<img src="https://user-images.githubusercontent.com/96395154/216857274-dee2d650-c6f6-4686-b6cd-6567b01374ad.png" alt="typescript" height='32'> 
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)
 
-### Tools 🛠️
+### Herramieentas, librerias y Framework 🛠️
 
-- Know/Using
+- Que estoy usando
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="aseprite logo" width="24">](https://www.aseprite.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL | many more...
+<img src="https://user-images.githubusercontent.com/96395154/216854163-f27672cc-7d54-48a5-9abb-9d7de539beae.png" alt="git" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216857772-d637e41c-8757-4b0e-bd96-e5d49a8ccb81.png" alt="vscode" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216859293-6dc2aa30-ea53-4e66-9014-67fb84d553e3.png" alt="django" height='38'> <img src="https://user-images.githubusercontent.com/96395154/216855622-eba4e1b8-aa9b-43b5-8594-2ce7e8192a99.png" alt="pg admin" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216855616-d37178e1-ec4f-4333-b35f-33ff486cfa9e.png" alt="CSS" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216855615-2fdbb8e7-132d-4600-96d9-d9b7fa53e284.png" alt="numpy" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216855614-32b0a5ed-83a2-4e5c-bfae-56a550f4088a.png" alt="pandas" height='32'> <img src="https://user-images.githubusercontent.com/96395154/216855624-70419bcb-d285-4612-9239-db777f7ebda9.png" alt="matplotlib" height='32'>  y mucho mas...
 
 
 - Aprendiendo
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
-|---|---|---|---|---|---|
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) y mucho mas...
+
 
 ### Mis redes 📫
 
 Puedes encontrarme tocando el icono!
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/JavierBrizuela) 
-
+[<img src="https://user-images.githubusercontent.com/96395154/216854161-7a3c987c-e7b1-4f98-bef2-721ce2b5bba0.png" alt="github logo" height="38">](https://github.com/JavierBrizuela) 
+[<img src='https://user-images.githubusercontent.com/96395154/216854140-a36df497-70e7-4688-aa38-aebc5510763d.png' alt='linkedin logo' height='38'>](https://www.linkedin.com/in/javier-brizuela1976/)
 
 
 ---
