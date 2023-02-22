@@ -1,4 +1,4 @@
-HolA, soy Javier de Mendoza, Argentina. Me he estado capacitando en distintas tecnologías y estoy deseoso de aplicar lo que he aprendido en un entorno laboral.
+Hola, soy Javier de Mendoza, Argentina. Me he estado capacitando en distintas tecnologías y estoy deseoso de aplicar lo que he aprendido en un entorno laboral.
 
 ### Lenguajes de programacion 🌐
 
